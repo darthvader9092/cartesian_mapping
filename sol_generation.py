@@ -1,6 +1,6 @@
 import json
 
-with open("user.json", "r") as f:
+with open("users.json", "r") as f:
     users = json.load(f)
 
 user_entries = ""
