@@ -1,0 +1,702 @@
+[
+    {
+        "UserType": "producer",
+        "EnergyBalance": 52,
+        "Price": 13,
+        "Classification": 3,
+        "Radian": 102
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -101,
+        "Price": 11,
+        "Classification": 2,
+        "Radian": 358
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 88,
+        "Price": 7,
+        "Classification": 3,
+        "Radian": 66
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -73,
+        "Price": 7,
+        "Classification": 5,
+        "Radian": 307
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -44,
+        "Price": 9,
+        "Classification": 3,
+        "Radian": 287
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 133,
+        "Price": 10,
+        "Classification": 3,
+        "Radian": 120
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 118,
+        "Price": 10,
+        "Classification": 4,
+        "Radian": 140
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 58,
+        "Price": 12,
+        "Classification": 4,
+        "Radian": 145
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 111,
+        "Price": 7,
+        "Classification": 5,
+        "Radian": 48
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": 3,
+        "Price": 10,
+        "Classification": 5,
+        "Radian": 171
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -52,
+        "Price": 12,
+        "Classification": 1,
+        "Radian": 349
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 117,
+        "Price": 9,
+        "Classification": 2,
+        "Radian": 4
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -28,
+        "Price": 9,
+        "Classification": 5,
+        "Radian": 298
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -93,
+        "Price": 9,
+        "Classification": 2,
+        "Radian": 26
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -114,
+        "Price": 12,
+        "Classification": 1,
+        "Radian": 85
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 106,
+        "Price": 7,
+        "Classification": 3,
+        "Radian": 218
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -51,
+        "Price": 11,
+        "Classification": 1,
+        "Radian": 160
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 123,
+        "Price": 10,
+        "Classification": 5,
+        "Radian": 127
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -74,
+        "Price": 11,
+        "Classification": 3,
+        "Radian": 318
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 100,
+        "Price": 10,
+        "Classification": 2,
+        "Radian": 98
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 124,
+        "Price": 9,
+        "Classification": 4,
+        "Radian": 241
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 133,
+        "Price": 9,
+        "Classification": 4,
+        "Radian": 114
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 101,
+        "Price": 10,
+        "Classification": 3,
+        "Radian": 22
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": 7,
+        "Price": 13,
+        "Classification": 4,
+        "Radian": 94
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -141,
+        "Price": 11,
+        "Classification": 3,
+        "Radian": 146
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 148,
+        "Price": 12,
+        "Classification": 3,
+        "Radian": 210
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 110,
+        "Price": 8,
+        "Classification": 4,
+        "Radian": 220
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -23,
+        "Price": 10,
+        "Classification": 3,
+        "Radian": 122
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -75,
+        "Price": 12,
+        "Classification": 1,
+        "Radian": 5
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": 30,
+        "Price": 11,
+        "Classification": 1,
+        "Radian": 243
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 112,
+        "Price": 9,
+        "Classification": 1,
+        "Radian": 174
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": 4,
+        "Price": 10,
+        "Classification": 3,
+        "Radian": 324
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -32,
+        "Price": 11,
+        "Classification": 5,
+        "Radian": 123
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -53,
+        "Price": 12,
+        "Classification": 5,
+        "Radian": 147
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -120,
+        "Price": 7,
+        "Classification": 2,
+        "Radian": 123
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": 35,
+        "Price": 13,
+        "Classification": 2,
+        "Radian": 66
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -43,
+        "Price": 11,
+        "Classification": 4,
+        "Radian": 222
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": 14,
+        "Price": 8,
+        "Classification": 5,
+        "Radian": 4
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -118,
+        "Price": 9,
+        "Classification": 2,
+        "Radian": 168
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -14,
+        "Price": 8,
+        "Classification": 4,
+        "Radian": 26
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -113,
+        "Price": 10,
+        "Classification": 5,
+        "Radian": 165
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -54,
+        "Price": 11,
+        "Classification": 1,
+        "Radian": 168
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 72,
+        "Price": 13,
+        "Classification": 1,
+        "Radian": 310
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -148,
+        "Price": 10,
+        "Classification": 5,
+        "Radian": 79
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -44,
+        "Price": 7,
+        "Classification": 1,
+        "Radian": 263
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -114,
+        "Price": 8,
+        "Classification": 5,
+        "Radian": 128
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 82,
+        "Price": 13,
+        "Classification": 1,
+        "Radian": 312
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -11,
+        "Price": 8,
+        "Classification": 2,
+        "Radian": 260
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -89,
+        "Price": 7,
+        "Classification": 2,
+        "Radian": 164
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -144,
+        "Price": 13,
+        "Classification": 5,
+        "Radian": 10
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -27,
+        "Price": 9,
+        "Classification": 4,
+        "Radian": 337
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": 7,
+        "Price": 13,
+        "Classification": 2,
+        "Radian": 273
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -43,
+        "Price": 12,
+        "Classification": 2,
+        "Radian": 213
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -126,
+        "Price": 12,
+        "Classification": 1,
+        "Radian": 72
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -145,
+        "Price": 10,
+        "Classification": 2,
+        "Radian": 319
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -16,
+        "Price": 8,
+        "Classification": 2,
+        "Radian": 339
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -134,
+        "Price": 12,
+        "Classification": 1,
+        "Radian": 23
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -27,
+        "Price": 8,
+        "Classification": 2,
+        "Radian": 55
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": 45,
+        "Price": 11,
+        "Classification": 4,
+        "Radian": 283
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -122,
+        "Price": 9,
+        "Classification": 2,
+        "Radian": 238
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": 14,
+        "Price": 12,
+        "Classification": 5,
+        "Radian": 359
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -59,
+        "Price": 13,
+        "Classification": 3,
+        "Radian": 7
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -3,
+        "Price": 11,
+        "Classification": 4,
+        "Radian": 9
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -81,
+        "Price": 13,
+        "Classification": 1,
+        "Radian": 96
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -9,
+        "Price": 13,
+        "Classification": 1,
+        "Radian": 107
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 78,
+        "Price": 12,
+        "Classification": 5,
+        "Radian": 176
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": 29,
+        "Price": 7,
+        "Classification": 2,
+        "Radian": 255
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -15,
+        "Price": 13,
+        "Classification": 3,
+        "Radian": 341
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -47,
+        "Price": 7,
+        "Classification": 1,
+        "Radian": 143
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -102,
+        "Price": 13,
+        "Classification": 5,
+        "Radian": 188
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": 49,
+        "Price": 7,
+        "Classification": 5,
+        "Radian": 108
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 105,
+        "Price": 9,
+        "Classification": 4,
+        "Radian": 301
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 52,
+        "Price": 7,
+        "Classification": 5,
+        "Radian": 91
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": 60,
+        "Price": 9,
+        "Classification": 3,
+        "Radian": 241
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -4,
+        "Price": 8,
+        "Classification": 4,
+        "Radian": 280
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -32,
+        "Price": 13,
+        "Classification": 1,
+        "Radian": 310
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -127,
+        "Price": 13,
+        "Classification": 4,
+        "Radian": 345
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": 42,
+        "Price": 8,
+        "Classification": 3,
+        "Radian": 67
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -86,
+        "Price": 10,
+        "Classification": 3,
+        "Radian": 122
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 130,
+        "Price": 12,
+        "Classification": 5,
+        "Radian": 345
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 119,
+        "Price": 7,
+        "Classification": 5,
+        "Radian": 189
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -67,
+        "Price": 10,
+        "Classification": 5,
+        "Radian": 312
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -87,
+        "Price": 8,
+        "Classification": 1,
+        "Radian": 244
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 108,
+        "Price": 13,
+        "Classification": 1,
+        "Radian": 329
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -117,
+        "Price": 9,
+        "Classification": 3,
+        "Radian": 278
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": 31,
+        "Price": 13,
+        "Classification": 1,
+        "Radian": 102
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": 39,
+        "Price": 8,
+        "Classification": 1,
+        "Radian": 51
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -125,
+        "Price": 9,
+        "Classification": 2,
+        "Radian": 353
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 140,
+        "Price": 11,
+        "Classification": 1,
+        "Radian": 60
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 101,
+        "Price": 10,
+        "Classification": 4,
+        "Radian": 133
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 115,
+        "Price": 11,
+        "Classification": 3,
+        "Radian": 104
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -68,
+        "Price": 7,
+        "Classification": 1,
+        "Radian": 350
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -54,
+        "Price": 12,
+        "Classification": 3,
+        "Radian": 57
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -57,
+        "Price": 11,
+        "Classification": 4,
+        "Radian": 21
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 127,
+        "Price": 13,
+        "Classification": 3,
+        "Radian": 260
+    },
+    {
+        "UserType": "prosumer",
+        "EnergyBalance": -32,
+        "Price": 11,
+        "Classification": 3,
+        "Radian": 317
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -115,
+        "Price": 12,
+        "Classification": 3,
+        "Radian": 83
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -106,
+        "Price": 9,
+        "Classification": 3,
+        "Radian": 206
+    },
+    {
+        "UserType": "producer",
+        "EnergyBalance": 90,
+        "Price": 11,
+        "Classification": 4,
+        "Radian": 251
+    },
+    {
+        "UserType": "consumer",
+        "EnergyBalance": -128,
+        "Price": 13,
+        "Classification": 4,
+        "Radian": 47
+    }
+]
